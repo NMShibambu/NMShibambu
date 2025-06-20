@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Nicholas Shibambu.
-- 👀 I’m interested in Software Development, Cyber Security, and Cloud Technologies.
+- 👀 I’m interested in Software Development, Networking,  Cyber Security, and Cloud Technologies.
 - 🌱 I’m currently learning software developmnt and networking.
 - 💞️ I’m looking to collaborate on innovative projects that align with the fields I am interested in.
 - 📫 I can be reached anytime via email at nmshibambu@gmail.com 
